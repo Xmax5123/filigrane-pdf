@@ -1,6 +1,6 @@
 # Filigrane PDF
 
-Application de bureau pour ajouter un filigrane répété et incliné à plusieurs PDF. Les documents peuvent être déposés directement dans la liste ; la touche **Suppr** retire les éléments sélectionnés. Les fichiers sont traités localement.
+Application de bureau pour ajouter un filigrane à plusieurs PDF en même temps. Les documents peuvent être déposés directement dans la liste ; la touche **Suppr** retire les éléments sélectionnés. Les fichiers sont traités localement.
 
 ## Télécharger une version compilée
 
